@@ -11,7 +11,7 @@ hi, i'm Kalana gimhana 🔮.
 
 ```
 ------
-[jewdev](https://[github.com/jewdev](https://github.com/kalanagimhana25))
+[kalana](https://[github.com/jewdev](https://github.com/kalanagimhana25))
 Last Edited on: 08/11/2025
 <!--
 **kalanagimhana25/kalanagimhana25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
