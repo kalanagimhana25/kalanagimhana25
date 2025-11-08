@@ -7,7 +7,7 @@ hi, i'm Kalana gimhana 🔮.
 @@programming student.@@
 + living in kaduwela, sri lanka.
 - 20 years old
-! java and web developer studying 
+! java and web development studying 
 
 ```
 ------
